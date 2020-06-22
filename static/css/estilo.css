@@ -1,0 +1,36 @@
+.boton_1{
+  position:absolute;
+  top: 100%;
+  left: 95%;
+  margin-top: -9em; /*set to a negative number 1/2 of your height*/
+  margin-left: -15em; /*set to a negative number 1/2 of your width*/
+  text-decoration: none;
+  padding: 21px;
+  text-transform: uppercase;
+  padding-left: 51px;
+  padding-right: 51px;
+  color: blue;
+  background-color: white;
+  font-family:Agency FB;
+  font-weight: 900;
+  text-align: center;
+  font-size: 130%;
+    border-radius: 5rem;
+h1{
+padding: 0px;
+font-family: Agency FB;
+color:blue;
+font-size:75px;
+margin:auto;
+position:absolute;
+top:10%;
+left:5%;
+font-weight:bold;
+}
+nav.navbar ul.nav li {
+    font-family: "Agency FB";
+}
+/* cambiar el color de fondo a la barra */
+nav.navbar {
+    background-color: #CC1414;
+}
